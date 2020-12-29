@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block content %}
+
+  {% if t=='s' %}
+  <div class="shadow p-3 mb-5 bg-white rounded">
+    <center>
+    <h4 style="color:rgb(0, 102, 0)">Sorry! This movie is not in our database.</h4>
+    <h5 style="color:rgb(0, 102, 0)">Please check if you spelled it correct.</h5>
+    <h5 style="color:rgb(0, 102, 0)">Or try with another movie.</h5>
+    </center>
+  </div>
+
+  {% else %}
+  <div class="shadow mb-5 bg-white rounded">
+    <center>
+    <h4 style="color:rgb(0, 102, 0)">"{{movie}}" is a great choice.</h4>
+    <h5 style="color:rgb(0, 102, 0)">Here are some more like this</h5>
+    </center>
+  </div>
+
+    <ul class="list-group list-group-flush">
+      {% for m in r %}
+        <li class="list-group-item" style="color:rgb(0, 102, 0)"><strong>{{m|capitalize}}</strong></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+{% endblock %}
