@@ -26,7 +26,7 @@ pip install -r requirements.txt
 <img target="_blank" src="https://64.media.tumblr.com/bec079d6cfcbeae06bdf32b086a9b825/2b75f174b7825786-6d/s1280x1920/0f912a13e608deb099f2d12204af9276768ba2c9.png">
 
 3. The recommendatoin will be based on these features only
-<img target="_blank" src="https://64.media.tumblr.com/463714f1c095cab3b6035f0e7286dd0f/2b75f174b7825786-0b/s1280x1920/1b4ab36a3fc8cac02f3d1690b4bc87872bbd2b82.png">
+<img target="_blank" src="https://64.media.tumblr.com/f23c10188af921b5ce444145ca526944/2b75f174b7825786-95/s1280x1920/876b211f1a2e1b73c6358feaa50e9e2227f14743.png">
 
 4. A little text processing on the movie titles
 <img target="_blank" src="https://64.media.tumblr.com/8da2d70bb7fa6c25b144a6023d8cb2aa/2b75f174b7825786-ad/s1280x1920/8a909c5a8b7cc9999f06f69cd4fb3addf527f005.png">
