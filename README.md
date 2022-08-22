@@ -3,7 +3,7 @@
 Possibly contains awesomeness and Movie_recommendation_webs related files
 
 ## Overview
-This is a Flask web app which predicts the fare of Flight ticket developed using python(Jupyter Notebook) and deployed on Heroku app.
+This is a Flask web app developed using python(Jupyter Notebook) and deployed on Heroku app.
 
 ## Installation
 The Code is written in Python 3.8.6. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip, navigate into the installed python directory and open command promt:
